@@ -8,7 +8,7 @@ On these pages I will be sharing with you about my research interests, publicati
 M.Tech in Industrial Engineering and Management (2019-2021) from Maulana Abul Kalam Azad University of Technology, West Bengal.
 ### Publications
 Currently working on several interesting projects, hope would be able to publish any very soon!
-**Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
