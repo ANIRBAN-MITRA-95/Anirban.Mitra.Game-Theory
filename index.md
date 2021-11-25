@@ -3,14 +3,9 @@ I am Anirban Mitra, a Ph.D scholar advised by Dr. Manu K. Gupta at Department of
 My research interests are broadly related to Game Theory and their applications in various field of Management sciences, specially in Operations Management.
 I am interested in several areas of Operations Research such as Stochastic Models, Optimization Techniques and their application in Inventory Management, Production Planning, Transportation Networks and Supply Chain Management.
 I have also keen interests on Machine Learning, mainly in Reinforcement Learning Algorithms such as Multi Arm Bandit Problems and their applications.
-  On these pages I will be sharing with you about my research interests, publications, academic activities etc.
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+On these pages I will be sharing with you about my research interests, publications, academic activities etc.
+## Education
+M.Tech in Industrial Engineering and Management (2019-2021) from Maulana Abul Kalam Azad University of Technology, West Bengal.
 # Header 1
 ## Header 2
 ### Header 3
