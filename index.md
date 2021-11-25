@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ANIRBAN-MITRA-95/Anirban.Mitra.Game-Theory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+I am Anirban Mitra, a Ph.D scholar advised by Dr. Manu K. Gupta at Department of Management Studies, IIT Roorkee.
 
 ### Markdown
 
