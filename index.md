@@ -5,7 +5,7 @@ I am interested in several areas of Operations Research such as Stochastic Model
 I have also keen interests on Machine Learning, mainly in Reinforcement Learning Algorithms such as Multi Arm Bandit Problems and their applications.
 On these pages I will be sharing with you about my research interests, publications, academic activities etc.
 ## Education
-M.Tech in Industrial Engineering and Management (2019-2021) from Maulana Abul Kalam Azad University of Technology
+M.Tech in Industrial Engineering and Management (2019-2021) from Maulana Abul Kalam Azad University of Technology, West Bengal.
 ## Publications
 Currently working on several interesting projects, hope would be able to publish any very soon!
 
