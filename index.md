@@ -9,5 +9,5 @@ M.Tech in Industrial Engineering and Management (2019-2021) from Maulana Abul Ka
 ## Publications
 Currently working on several interesting projects, hope would be able to publish any very soon!
 ## Teaching Assistant
-Operations Research (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta
-Essential AI For Managers (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta
+1.Operations Research (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta;
+2.Essential AI For Managers (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta.
