@@ -11,5 +11,6 @@ Currently working on several interesting projects, hope would be able to publish
 ## Teaching Assistant
 1. Operations Research (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta.
 2. Essential AI For Managers (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta.
+
 ## Other Interests
 Besides studies I am interested in playing Chess, watching movies (Mainly Science Fiction and Drama), photography.
