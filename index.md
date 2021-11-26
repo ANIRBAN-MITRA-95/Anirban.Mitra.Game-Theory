@@ -1,5 +1,5 @@
 ## About Me
-I am Anirban Mitra, a Ph.D scholar advised by Dr. Manu K. Gupta at Department of Management Studies, IIT Roorkee.
+I am Anirban Mitra, a Ph.D scholar advised by <a href = "https://manugupta-ai.com/" target="_blank">Dr. Manu K. Gupta</a> at Department of Management Studies, IIT Roorkee.
 My research interests are broadly related to Game Theory and their applications in various field of Management sciences, specially in Operations Management.
 I am interested in several areas of Operations Research such as Stochastic Models, Optimization Techniques and their application in Inventory Management, Production Planning, Transportation Networks and Supply Chain Management.
 I have also keen interests on Machine Learning, mainly in Reinforcement Learning Algorithms such as Multi Arm Bandit Problems and their applications.
