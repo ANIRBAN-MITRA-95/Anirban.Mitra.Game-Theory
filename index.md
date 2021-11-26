@@ -13,4 +13,4 @@ Currently working on several interesting projects, hope would be able to publish
 2. Essential AI For Managers (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta.
 
 ## Other Interests
-Besides studies I am interested in playing Chess, watching movies (Mainly Science Fiction and Drama), photography.
+Besides studies I am interested in playing Chess, watching movies (Mainly Science-Fiction, Fantasy, Drama).
