@@ -17,6 +17,7 @@ Currently working on several interesting projects, hope would be able to publish
 3. Reinforcement Learning (Specially in Multi Armed Bandit Problem)
 4. Queueing Theory
 5. Dynamic Pricing
+
 ## Teaching Assistant
 1. Operations Research (Autumn Semester, 2021), Course Instructor: <a href = "https://manugupta-ai.com/" target="_blank">Dr. Manu K. Gupta</a>  .
 2. Essential AI For Managers (Autumn Semester, 2021), Course Instructor: <a href = "https://manugupta-ai.com/" target="_blank">Dr. Manu K. Gupta</a>    .
