@@ -9,8 +9,8 @@ M.Tech in Industrial Engineering and Management (2019-2021) from Maulana Abul Ka
 ## Publications
 Currently working on several interesting projects, hope would be able to publish any very soon!
 ## Teaching Assistant
-1. Operations Research (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta.
-2. Essential AI For Managers (Autumn Semester, 2021), Course Instructor: Dr. Manu K. Gupta.
+1. Operations Research (Autumn Semester, 2021), Course Instructor:<a href = "https://manugupta-ai.com/" target="_blank">Dr. Manu K. Gupta</a>  .
+2. Essential AI For Managers (Autumn Semester, 2021), Course Instructor: <a href = "https://manugupta-ai.com/" target="_blank">Dr. Manu K. Gupta</a>    .
 
 ## Other Interests
 Besides studies I am interested in playing Chess, watching movies (Mainly Science-Fiction, Fantasy, Drama).
